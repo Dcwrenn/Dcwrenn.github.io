@@ -1,14 +1,14 @@
-title: Hi, I'm Danielle. A graduate student at the University of Alaska Fairbanks. 
-  A researcher invested in developing innovative solutions to real-world problems.
-  I wanted a place to share a behind-the-scenes look of the work I do 
-  and my perspective on science. This is it. Welcome!
+title: Danielle Wrenn
 author:
   name: Dcwrenn
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-#description: >
-
+description: >
+  A graduate student at the University of Alaska Fairbanks. 
+  A researcher invested in developing innovative solutions to real-world problems.
+  I wanted a place to share a behind-the-scenes look of the work I do 
+  and my perspective on science. This is it. Welcome!
 
 # Build settings
 
